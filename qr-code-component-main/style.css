@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    background-color: aliceblue;
+  }
+  
+  .container {
+    width: 250px;
+    height: fit-content;
+    margin: auto;
+    background-color: white;
+    margin-top: 15%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+  }
+  
+  img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  h3,
+  .container p {
+    padding: 10px 0;
+  }
+  
+  .container p {
+    color: gray;
+  }
+  
+  .attribution p:last-child {
+    padding-top: 5px;
+  }
+  
+  .attribution {
+    padding-top: 10px;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  
